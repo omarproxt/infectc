@@ -1,3 +1,7 @@
+# the work
+
+A tool that performs a factory reset of the victim's phone
+
 # infectc
 - apt-get update -y
 - apt-get upgrade -y
