@@ -5,7 +5,7 @@
 - pkg install python2 -y
 - pkg install git -y
 - pip install lolcat
-- git clone https://github.com/noob-hackers/infect
+- git clone https://github.com/omarproxt/infect
 - cd $HOME
 - ls
 - cd infect
