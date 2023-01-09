@@ -10,4 +10,4 @@
 - ls
 - cd prxt-t
 - ls
-- bash infectc.sh
+- bash prxt-t.sh
