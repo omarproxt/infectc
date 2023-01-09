@@ -5,9 +5,9 @@
 - pkg install python2 -y
 - pkg install git -y
 - pip install lolcat
-- git clone https://github.com/omarproxt/prxt-t
+- git clone https://github.com/omarproxt/prox-t
 - cd $HOME
 - ls
-- cd prxt-t
+- cd prox-t
 - ls
-- bash prxt-t.sh
+- bash prox-t.sh
