@@ -10,5 +10,5 @@
 - ls
 - cd infectc
 - ls
-- bash infectx.sh
+- bash infectc.sh
 
