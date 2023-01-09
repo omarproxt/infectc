@@ -32,7 +32,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Team prox-t
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
@@ -64,7 +64,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Team prox-t
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
