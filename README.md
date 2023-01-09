@@ -5,9 +5,9 @@
 - pkg install python2 -y
 - pkg install git -y
 - pip install lolcat
-- git clone https://github.com/omarproxt/prox-t
+- git clone https://github.com/omarproxt/infectx
 - cd $HOME
 - ls
-- cd prox-t
+- cd infectx
 - ls
-- bash prox-t.sh
+- bash infectx.sh
