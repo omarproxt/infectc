@@ -1,4 +1,4 @@
-# infect
+# infectc
 - apt-get update -y
 - apt-get upgrade -y
 - pkg install python -y
